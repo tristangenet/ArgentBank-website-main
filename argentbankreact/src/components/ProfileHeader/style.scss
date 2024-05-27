@@ -1,0 +1,32 @@
+.userHeader {
+  padding-bottom: 32px;
+}
+
+.userTitle,
+.userName {
+  color: white;
+  margin-bottom: 0;
+}
+
+.userName {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.EditBtnContainer {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: fit-content;
+}
+
+.edit-button {
+  padding: 10px;
+}
+
+.editInput {
+  width: 245px;
+}
+
+.editNameFormBtn {
+  min-width: 100px;
+}

@@ -1,0 +1,20 @@
+.sign-in a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.sign-in a.active {
+  color: #42b983;
+}
+
+.sign-link-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.sign-link-item:hover {
+  text-decoration: underline;
+}
